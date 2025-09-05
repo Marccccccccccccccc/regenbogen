@@ -1,3 +1,3 @@
 input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
-    basic.showNumber(randint(0, 6))
+    basic.showNumber(randint(1, 6))
 })
